@@ -76,6 +76,11 @@ public class Class_B()
 
 ### Strategy Pattern
 The third step is to use the above classes following the strategy pattern [info](https://www.dofactory.com/net/strategy-design-pattern).
+This the class disgram for the strategy pattern and this is want we want to realize.
+
+![strategy pattern UML](https://github.com/skepee/CSharp-Design-Pattern-migration-example/StrategyUML.png)
+
+
 The classes stil keep the own method for mandate creation but are invoked in differet way. 
 
 
