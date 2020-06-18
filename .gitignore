@@ -3,3 +3,8 @@
 ################################################################################
 
 /MandateBasic/bin/Debug
+/MandateBasic/obj/Debug
+/MandateClass/obj/Debug
+/Shared/bin/Debug/netstandard2.0
+/Shared/obj
+/MandateStrategy/obj/Debug
